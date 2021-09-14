@@ -4,7 +4,7 @@
   <artifactId>curso-treinaweb-selenium</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  		<!--  TestNG -->
+  		<!-- TestNG -->
   		<dependency>
   			<groupId>org.testng</groupId>
   			<artifactId>testng</artifactId>
